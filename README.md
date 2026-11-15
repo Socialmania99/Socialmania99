@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧑‍💻 **Social Mania**, a hobby developer from **India** 🇮🇳
+- 🧑‍💻 **Social Mania**, a developer by hobby
 - 💼 I come from a completely different domain and have a real full-time job
 - 🤖 I started coding with **AI for fun**, and it turned into a hobby
 - 💡 I take ideas I like, often inspired by other developers' work, and turn them into small apps
@@ -98,7 +98,6 @@ All my projects are **free and open source**. If one saved you time, a coffee ke
 ## 🌐 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Socialmania99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Socialmania99)
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-buymeacoffee.com/socialmania99-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socialmania99)
 
 <div align="center">
 
