@@ -5,7 +5,6 @@
 **Coding with AI for fun. Small apps, built in my spare time.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-socialmania99.github.io-2F6DF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://socialmania99.github.io/)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/socialmania99)
 
 </div>
 
