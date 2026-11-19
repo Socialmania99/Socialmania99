@@ -65,7 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=Socialmania99&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff">
   <br>
   <br>
- <a href="https://www.buymeacoffee.com/socialmania99"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="socialmania99" /></a>
 
 </p>
 
